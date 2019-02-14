@@ -70,3 +70,18 @@ figcaption {
 #details a:active {
   color: red;
 }
+
+/*//LAYOUT/*/
+.wrapper: 960 px;
+margin: 0 auto;
+background: #eee;
+.cot-1
+float: left;
+width: 32%
+.col-2
+float: left;
+width:66%
+col-3
+[class*="col-"] {
+background:#ccc;
+}
